@@ -15,6 +15,11 @@ cta-link-3: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 cta-button-1: Help
 cta-button-1-link: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 
+-- ftd.row:
+width: fill-container
+background.solid: black
+margin-top.vw: 1
+
 -- hero-3.hero-3: Before they sold out readymade gluten
 cta-button-1: Button
 link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
@@ -25,38 +30,23 @@ cover: $assets.files.assets.pic13.jpg
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
 
+-- end: ftd.row
+
 -- ftd.row:
 width: fill-container
 align-content: center
 background.solid: black
 margin-top.vw: 1
 
--- feature-3.feature-3:
-image: $assets.files.assets.pic13.jpg
+-- cta-3.cta-3:
+title: **Slow-carb next level shoindcgoitch ethical authentic, poko scenester**
+login-title: Sign Up
+info-text-1: Full Name
+info-text-2: Email
+cta-button: LOGIN
+link-1: https://trizui.trizwit.com/
 
--- feature-3.feature-container-3:
-logo: $assets.files.assets.graph.png
-title: Shooting Stars
-cta-link: https://trizui.trizwit.com/
-
-Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
-
--- feature-3.feature-container-3:
-logo: $assets.files.assets.graph.png
-title: Shooting Stars
-cta-link: https://trizui.trizwit.com/
-
-Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
-
--- feature-3.feature-container-3:
-logo: $assets.files.assets.graph.png
-title: Shooting Stars
-cta-link: https://trizui.trizwit.com/
-
-Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
-
-
--- end: feature-3.feature-3
+Poke slow-carb mixtape knausgaard, typewriter street art gentrify hammock starladder roathse. Craies vegan tousled etsy austin.
 
 -- end: ftd.row
 
@@ -84,6 +74,7 @@ Franzen you probably haven't heard of them man bun deep jianbing selfies heirloo
 width: fill-container
 background.solid: black
 spacing.fixed.vw: 2
+padding-bottom.vw: 2
 
 -- team-1.team-1:
 title: Our Team
@@ -154,6 +145,28 @@ stat-4-category: Products
 
 Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. 
 Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.
+
+
+-- testimonial-1.testimonial-1:
+heading: Testimonials
+
+-- testimonial-1.testimonial-1-container:
+name: Alper Kamu
+position: DESIGNER
+pro-pic: $assets.files.assets.pic1.jpg
+
+Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra before they sold out fixie 90's microdosing. 
+Tacos pinterest fanny pack venmo, post-ironic heirloom try-hard pabst authentic iceland.
+
+-- testimonial-1.testimonial-1-container:
+name: Holden Caulfield
+position: UI DEVELOPER
+pro-pic: $assets.files.assets.pic1.jpg
+
+Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra before they sold out fixie 90's microdosing. 
+Tacos pinterest fanny pack venmo, post-ironic heirloom try-hard pabst authentic iceland.
+
+-- end: testimonial-1.testimonial-1
 
 -- end: ftd.column
 
