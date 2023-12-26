@@ -1,40 +1,208 @@
--- ds.page: Welcome to doc-site
+-- ftd.column:
+width: fill-container
+height: fill-container
+padding.vw: 2
+
+-- header-1.header-1: 
+logo: $assets.files.assets.graph.png
+logo-test: TRIZWIT
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Contact Us
+cta-link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-link-3: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-button-1: Help
+cta-button-1-link: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+
+-- hero-3.hero-3: Before they sold out readymade gluten
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-button-2: Button
+link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cover: $assets.files.assets.pic13.jpg
+
+Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
+Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+
+-- ftd.row:
+width: fill-container
+align-content: center
+background.solid: black
+margin-top.vw: 1
+
+-- feature-3.feature-3:
+image: $assets.files.assets.pic13.jpg
+
+-- feature-3.feature-container-3:
+logo: $assets.files.assets.graph.png
+title: Shooting Stars
+cta-link: https://trizui.trizwit.com/
+
+Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
+
+-- feature-3.feature-container-3:
+logo: $assets.files.assets.graph.png
+title: Shooting Stars
+cta-link: https://trizui.trizwit.com/
+
+Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
+
+-- feature-3.feature-container-3:
+logo: $assets.files.assets.graph.png
+title: Shooting Stars
+cta-link: https://trizui.trizwit.com/
+
+Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.
 
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- end: feature-3.feature-3
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+-- end: ftd.row
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+-- ftd.row:
+width: fill-container
+align-content: center
+background.solid: black
+margin-top.vw: 1
 
--- ds.h3: 🚀 Fast Track 
+-- gallery-3.gallery-3:
+title: Master Cleanse Reliac Heirloom
+image1: $assets.files.assets.dummy-image.jpg
+image2: $assets.files.assets.dummy-image.jpg
+image3: $assets.files.assets.dummy-image.jpg
+image4: $assets.files.assets.dummy-image.jpg
+image5: $assets.files.assets.dummy-image.jpg
+image6: $assets.files.assets.dummy-image.jpg
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.
+Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.
 
--- ds.h3: 🌟 Whats next?
+-- end: ftd.row
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
+-- ftd.column: 
+width: fill-container
+background.solid: black
+spacing.fixed.vw: 2
 
--- ds.h3: 👀 Want to learn more?
+-- team-1.team-1:
+title: Our Team
 
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.Franzen you probably
+haven't heard of them.
+
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic1.jpg
+name: Holden Caulfield
+position: UI Designer
+
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic2.jpg
+name: Henry Letham
+position: CTO
+
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic3.jpg
+name: Oskar Blinde
+position: Founder
 
 
--- ds.h3: 🎯 Used by?
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic4.jpg
+name: John Doe
+position: Devops
 
-Our all documentation sites uses this `doc-site` theme.
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic5.jpg
+name: Martin Eden
+position: Software Engineer
 
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic6.jpg
+name: Boris Kitua
+position: UX Researcher
 
--- ds.h2: Learn fastn and become a pro?
 
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic7.jpg
+name: Atticus Finch
+position: QA Engineer
 
--- end: ds.page
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic8.jpg
+name: Alper Kamu
+position: System
+
+-- team-1.profilecard-a:
+pro-pic: $assets.files.assets.pic9.jpg
+name: Rodrigo Monchi
+position: Product Manager
+
+-- end: team-1.team-1
+
+-- statistic-3.statistic-3:
+title: Moon hashtag pop-up try hard offal
+stat-1-count: 2.7K
+stat-2-count: 1.8K
+stat-3-count: 35
+stat-4-count: 4
+stat-1-category: Users
+stat-2-category: Subscribes
+stat-3-category: Downloads
+stat-4-category: Products
+
+
+Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. 
+Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.
+
+-- end: ftd.column
+
+-- ftd.row:
+width: fill-container
+margin-top.vw: 1
+
+-- footer-1.footer-1:
+logo: $assets.files.assets.shield-check.svg
+facebook: $assets.files.assets.facebook.svg
+twitter: $assets.files.assets.twitter.svg
+instagram: $assets.files.assets.whatsapp.svg
+linkedin: $assets.files.assets.twitter.svg
+logo-test: TRIZWIT
+facebook-link: https://www.facebook.com/trizwit
+twitter-link: https://twitter.com/trizwit
+instagram-link: https://www.instagram.com/trizwit/
+linkedin-link: https://www.linkedin.com/company/trizwit/
+
+-- footer-1.Category:
+heading: CATEGORIES
+text-1: First Link
+text-2: Second Link
+text-3: Third Link
+text-4: Fourth Link
+
+-- footer-1.Category:
+heading: CATEGORIES
+text-1: First Link
+text-2: Second Link
+text-3: Third Link
+text-4: Fourth Link
+
+-- footer-1.Category:
+heading: CATEGORIES
+text-1: First Link
+text-2: Second Link
+text-3: Third Link
+text-4: Fourth Link
+
+-- footer-1.Category:
+heading: CATEGORIES
+text-1: First Link
+text-2: Second Link
+text-3: Third Link
+text-4: Fourth Link
+
+-- end: footer-1.footer-1
+
+-- end: ftd.row
+
+-- end: ftd.column

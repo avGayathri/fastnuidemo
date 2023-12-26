@@ -3,17 +3,33 @@
 -- fastn.package: avgayathri.github.io/fastnuidemo
 favicon: /-/avgayathri.github.io/fastnuidemo/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: shaheen-senpai.github.io/fastn-cs-tail
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: trizui.trizwit.com
 
 -- fastn.auto-import: avgayathri.github.io/fastnuidemo/FASTN/ds
 -- fastn.auto-import: avgayathri.github.io/fastnuidemo/assets
--- fastn.auto-import: doc-site
+-- fastn.auto-import: shaheen-senpai.github.io/fastn-cs-tail
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Header/header-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Footer/footer-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Hero/hero-6
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Hero/hero-3
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Contact/contact-2
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Testimonial/testimonial-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Statistic/statistic-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Contact/contact-3
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Team/team-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Statistic/statistic-2
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Statistic/statistic-3
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Login/login-2 as l2
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Cards/card-1
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Alert/alert
+-- fastn.auto-import: trizui.trizwit.com/lib
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Feature/feature-3
+-- fastn.auto-import: trizui.trizwit.com/UI-Components/Gallery/gallery-3
 
--- fastn.sitemap:
 
-# Home: index.html
 
-- Right Sidebar Sample: /sidebar/
+
